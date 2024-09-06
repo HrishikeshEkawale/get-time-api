@@ -15,5 +15,6 @@ now() ]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
 		<logger level="INFO" doc:name="Payload" doc:id="4c0617c3-e1a7-4bf6-89a6-8a0bb82c3f9f" message="#[payload]" />
+		<logger level="INFO" doc:name="Logger" doc:id="56ba6da5-69e5-4cc3-a85e-5c5bb9c25bdb" message='#["Hello world"]'/>
 	</flow>
 </mule>

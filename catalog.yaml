@@ -11,4 +11,4 @@ projects:
       - auther
       - sys-api
     documentation:
-        Home: exchange-docs/home.md
+        Home: exchange-docs\home.md
